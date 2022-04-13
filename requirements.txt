@@ -1,0 +1,4 @@
+aiogram~=2.19
+Django~=4.0.3
+django-admin-volt~=0.0.5
+
